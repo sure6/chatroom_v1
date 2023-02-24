@@ -6,7 +6,8 @@
 <meta charset="UTF-8" />
 <title>聊天主页</title>
 <link href="CSS/style.css" rel="stylesheet">
-<script src="${pageContext.request.contextPath}/js/jquery-1.8.3.js"></script>
+<!-- <script src="${pageContext.request.contextPath}/js/jquery-1.8.3.js"></script> -->
+<script src="https://cdn.bootcdn.net/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script>
 	var sysBBS = "<span style='font-size:14px; line-height:30px;'>欢迎光临聊天室</span><br><span style='line-height:22px;'>";
 	window.setInterval(showContent, 1000);
@@ -204,7 +205,7 @@
 			</tr>
 			<tr>
 				<td colspan="4" align="center" >
-					<span>AllCopyRights reserved 李旋作品</span></td>
+					<span>@AllCopyRights reserved , design by leesure since 2018</span></td>
 			</tr>
 		</form>
 	</table>

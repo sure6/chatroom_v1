@@ -8,3 +8,4 @@ target/
 
 # Compiled class file
 *.class
+/build/
