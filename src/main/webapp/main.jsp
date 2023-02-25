@@ -205,7 +205,7 @@
 			</tr>
 			<tr>
 				<td colspan="4" align="center" >
-					<span>@AllCopyRights reserved , design by leesure since 2018</span></td>
+					<span>©AllCopyRights reserved , design by leesure since 2018</span></td>
 			</tr>
 		</form>
 	</table>
